@@ -2,7 +2,7 @@
   "name": "ngparser",
   "version": "0.0.1",
   "description": "Angular Projects Parser",
-  "main": "dist/archi.js",
+  "main": "dist/parser.js",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "tsc",
